@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 13.5.0-2025
+⦿ Official update: 13.6.0-2025
 
 ❏ Changes in the application: ↓
 
