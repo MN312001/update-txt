@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 38.4.3
+⦿ Official update: 38.4.3-Improve and speed up features.
 
 ❏ Changes in the application: ↓
 
