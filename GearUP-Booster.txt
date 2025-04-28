@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 17.2.1-beta
+⦿ Official update: 3.41.0.0421
 
 ❏ Changes in the application: ↓
 
