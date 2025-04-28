@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 13.3.0-Fixed
+⦿ Official update: 15.10.5
 
 ❏ Changes in the application: ↓
 
