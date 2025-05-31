@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 14.4.0-Beta_Testar
+⦿ Official update: 14.4.0-14400200
 
 ❏ Changes in the application: ↓
 
