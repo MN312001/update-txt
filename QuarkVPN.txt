@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 2.2.4-Fixed A15
+⦿ Official update: 2.2.6
 
 ❏ Changes in the application: ↓
 
