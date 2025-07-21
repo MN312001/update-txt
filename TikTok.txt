@@ -1,6 +1,7 @@
 ☰ New update.
 
-⦿ Official update: 40.7.3
+⦿ Official update MN-TikTok: 40.9.3
+⦿ Official update MN-TikTok Pro: 40.9.3
 
 ❏ Changes in the application: ↓
 
