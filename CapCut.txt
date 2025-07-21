@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 14.8.0-14800100
+⦿ Official update: 14.8.0-14800300
 
 ❏ Changes in the application: ↓
 
