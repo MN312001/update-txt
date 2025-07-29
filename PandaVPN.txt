@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 7.6.1-Fix
+⦿ Official update: 7.7.0
 
 ❏ Changes in the application: ↓
 
