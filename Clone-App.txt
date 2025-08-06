@@ -1,7 +1,7 @@
 ☰ New update.
 
 ⦿ Clone App Pro : 3.6.2
-⦿ Clone App : 3.3.3
+⦿ Clone App : 4.0.2
 
 ❏ Changes in the application: ↓
 
