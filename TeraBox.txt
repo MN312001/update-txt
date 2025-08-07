@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: 3.46.0
+⦿ Official update: 4.3.5
 
 ❏ Changes in the application: ↓
 
