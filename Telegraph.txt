@@ -1,6 +1,6 @@
 ☰ New update.
 
-⦿ Official update: T11.13.0 - P11.22.3
+⦿ Official update: T11.14.1 - P11.23.0
 
 ❏ Changes in the application: ↓
 
